@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.app {
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  height: 650px;
+}
+
+.light-mode {
+  background: hsl(0, 0%, 100%);
+}
+.dark-mode {
+  background: hsl(232, 19%, 15%)
+}
+.fb,
+.ig,
+.yt,
+.twitter {
+  margin-top: 10px;
+  width: 15px;
+}
+.up-arrow {
+  margin-top: 17px;
+  width: 5px;
+  height: 5px;
+}
+.down-arrow {
+  margin-top: 17px;
+  width: 5px;
+  height: 5px;
+}
+.follow {
+  font-size: 10px;
+}
+.attribution { 
+  color: gray;
+  margin-top: 20px;
+  font-size: 11px; 
+  text-align: center;
+ }
+.attribution a { 
+  color: hsl(228, 45%, 44%);
+ }
+ @media(max-width: 576px) {
+  .app {
+    height: 100%;
+  }
+  .attribution { 
+    margin-top: 10px;
+   }
+ }
