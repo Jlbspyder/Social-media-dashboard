@@ -13,7 +13,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-social-media-dashboard-built-with-tailwind-css-6xhPmzmBOT](https://www.frontendmentor.io/solutions/responsive-social-media-dashboard-built-with-tailwind-css-6xhPmzmBOT)
 - Live Site URL: [https://jlb-social-media-dashboard.netlify.app/](https://jlb-social-media-dashboard.netlify.app/)
 
 
